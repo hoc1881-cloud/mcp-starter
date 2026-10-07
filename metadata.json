@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Real-time global markets tracking with live charts, stocks, crypto, forex, indices, futures, and interactive heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
